@@ -47,7 +47,8 @@ able to group by neighbor using dropdown list on the side using hvplot:
 
 
 Organized dataframe using hvplot & geoview: 
-<img width="898" alt="Screen Shot 2022-08-11 at 7 12 01 PM" src="https://user-images.githubusercontent.com/107937930/184263775-bd7c8760-e60a-46ce-8fb8-0f4d623c8ebe.png">
+<img width="866" alt="Screen Shot 2022-08-11 at 7 26 13 PM" src="https://user-images.githubusercontent.com/107937930/184264499-d5aeec3e-06c9-416e-9249-349d27a30133.png">
+
 
 
 
