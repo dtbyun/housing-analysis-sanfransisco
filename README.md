@@ -1,12 +1,13 @@
-# Challenge6
 
 # Project 
+San Fransisco Housing
+
 
 This project evaluates San Fransisco housing properties as potential investment opportunities by using hvPlot and GeoViews to create interactive visualizations to help understand real-estate data in the area.
 
 ---
 
-## Technologies
+# Technologies
 
 
 Using the hvPlot library to create visualizations so user can interact with data.
@@ -24,14 +25,14 @@ GeoViews
 
 ---
 
-## Installation Guide
+# Installation Guide
 
 conda installinstalling hvplot geoviews using dev mode:
 <img width="269" alt="Screen Shot 2022-08-11 at 6 48 05 PM" src="https://user-images.githubusercontent.com/107937930/184261718-3a5331bf-06fd-4596-9b08-c713e0ff6939.png">
 
 ---
 
-## Usage
+# Usage
 
 
 Samples of organized data with visualizations using hvplot:
